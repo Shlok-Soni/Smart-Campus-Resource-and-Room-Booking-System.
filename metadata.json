@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Resource & Room Booking System",
+  "description": "Production-grade prototype of the Smart Campus Resource & Room Booking System featuring real-time conflict prevention, role switching between Student and Admin, approval workflows, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
